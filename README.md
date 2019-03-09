@@ -7,3 +7,5 @@ ArduBoy Project for musical scales visualization
 - Listen scales live!
 
 With hex file for instant upload
+Video here
+https://www.facebook.com/massimiliano.scordamaglia/videos/10155471971863406/
