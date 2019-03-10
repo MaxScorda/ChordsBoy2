@@ -14,7 +14,8 @@ https://www.facebook.com/massimiliano.scordamaglia/videos/10155471971863406/
 ArduBoy website<br>
 https://arduboy.com/
 
-<div>
+<hr>
+
 # Menu Info
 0-ACC: Accordi<br>
 1-AUM: Accordi Aumentati<br>
